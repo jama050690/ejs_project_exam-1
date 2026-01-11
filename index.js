@@ -1,1 +1,4 @@
-import "./src/server.js";
+import { main } from "./src/server.js";
+
+
+main();
