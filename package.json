@@ -1,0 +1,19 @@
+{
+  "name": "ejs_project_exam-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/sever.js",
+    "dev": "node --watch src/sever.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.24.0",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.2.1"
+  }
+}
